@@ -1,0 +1,23 @@
+*{
+       margin:0px;
+}
+.bg-container{
+       background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+       height: 100vh;
+       background-size:cover;
+}
+.card-conatiner{
+       background-color: #000000e6;
+       color:white;
+       font-family: 'roboto';
+       margin:20px;
+       padding:16px;
+       border-radius: 20px;
+}
+.button{
+       background-color:white;
+       height: 36px;
+       width: 126px;
+       padding:0px;
+       border-radius: 10px;
+}

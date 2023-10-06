@@ -1,0 +1,82 @@
+.podcast-container-home{
+       background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+       height: 30vh;
+       background-size: cover;
+}
+.podcast-title{
+       font-size:32px;
+       color:white;
+       padding:15px;
+}
+
+.bottom-container{
+       padding:15px;
+}
+.image-names{
+       font-size:20px;
+       font-weight: bold;
+       color: #151765;
+}
+.episodes{
+       color: #5a7184;
+       font-size:20px;
+       font-weight: bold;
+       
+}
+.details-card{
+       margin:10px;
+       text-align: center;
+}
+.card-imge{
+       height: 144px;
+       width: 200px;
+       padding:15px;
+}
+.bg-container{
+       background-color: #151765;
+       height: 30vh;
+       background-size: cover;
+}
+.text-content{
+       padding:5px;
+}
+.podcast-header{
+       font-size:26px;
+       color: #ffffff;
+
+}
+.podcast-decrep{
+       font-size:14px;
+       color: #ffffff;
+}
+.podcast{
+       font-size:14px;
+       color: white;
+}
+.emty-bg{
+       height: 30vh;
+}
+.card-podcast{
+       font-weight: bold;
+       font-size:20px;
+       color: #151765;
+}
+.card-podcast-header{
+       color: #5a7184;
+       font-size:20px;
+       font-weight: 500;
+}
+.card-podcast-time{
+       color: #5a7184;
+       font-size:16px;
+}
+.btn-back{
+       background-color: #151765;
+       color: white;
+       font-size:14px;
+       height: 30px;
+       width: 60px;
+       margin: 20px;
+       border-width: 0px;
+       border-radius: 10px;
+}

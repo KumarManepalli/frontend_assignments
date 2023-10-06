@@ -1,0 +1,44 @@
+*{
+       margin:0px;
+}
+.cricket-container{
+       background-color: #fb4e71;
+       height: 30vh;
+       background-size:cover;
+       padding:15px;
+}
+.top-header{
+       color: white;
+       font-size:25px;
+}
+.top-decription{
+       color: white;
+       font-family: 14px;
+}
+.botom-container{
+       background-color: #e6f6ff;
+       height: 90vh;
+       background-size:cover;
+       padding:20px;
+       
+}
+.card-bottom{
+       background-color: white;
+}
+.tittle{
+       font-size:23px;  
+}
+.card-tittle{
+       font-size:22px;
+}
+.card-decription{
+       
+       font-size:18px;
+       color:#323f4b;
+       font-weight: 500;
+
+}
+.vidios-p{
+       font-size:12px;
+       padding-top:5px;
+}
