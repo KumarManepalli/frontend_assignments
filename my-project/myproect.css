@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    background-color: #1b1b1b;
+    padding:20px;
+}
+.bg-card-container{
+    background-color: #e6f6ff;
+    height: 40vh;
+    border-radius: 10px;
+}
+.popular-header{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.populr-image{
+    height: 40vh;
+}
+.wings-of{
+    padding:8px;
+}
+.popular-title{
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #183b56;
+    font-weight: bold;
+}
+.popular-decreption{
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: #183b56;
+    color:#06070d;
+}
+.popular-authot{
+    font-family: "Roboto";
+    font-size: 13px;
+    color:#183b56;
+}
+
+
+.Recommended-img{
+    height: 130px;
+    width: 90px;
+    padding-right: 10px;
+}
+.recom-header{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #183b56;
+    color:#ffffff;
+    padding-top:10px;
+}
+.recom-title{
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color:#ffffff;
+}
+.recom-author{
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color:#9aa5b1;
+}
+.wings-bg-container{
+    background-color: #1b1b1b;
+   padding:20px;
+}
+.wings-image{
+    width: 50%;
+    padding-bottom: 10px;
+}
+.wings-header{
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: white;
+}
+.wings-author{
+   font-family: "Bree Serif";
+    font-size: 13px;
+    color:#9aa5b1;
+}
+.wings-decription{
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color:#9aa5b1;
+    font-weight: 500;
+}
+
+
+
+
